@@ -39,6 +39,14 @@ border-bottom: 1px solid rgb(127, 129, 255);
 }
 
 
-portfolio.html {
+port-page {
     background-color: gainsboro;
+    color: white;
+    padding-left: 25px;
+}
+
+img {
+    width: 45%;
+    height: auto;
+    padding-left: 340px;
 }
